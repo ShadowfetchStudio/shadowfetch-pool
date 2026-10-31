@@ -55,3 +55,9 @@ If `rsvg-convert` is missing: `sudo apt install librsvg2-bin desktop-file-utils`
 Inter fonts — SIL OFL 1.1. Meshes, icon, and audio are original.
 
 No real-money gambling. No telemetry.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+Like this project? You can [buy me a coffee](https://www.buymeacoffee.com/shadowfetcu).
